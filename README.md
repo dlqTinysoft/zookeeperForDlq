@@ -5,6 +5,7 @@
 1. java的原生Api 
 2. 使用zkclient
 3. 使用框架curator
+    这个是重点，一定要学会使用。 与上面两个开发包相比，多了个事务操作。
 
 ####2. zookeeper的原理
 1. zookeeper集群中包含三个角色，分别为leader、follower、observer
