@@ -27,22 +27,11 @@ zookeeper时，带来的性能开销。
 
 
 ####3.zookeeper的使用场景
-1.数据的发布和订阅(配置中心)
-
-
-
-
-
-
-
-
-
-
-
-
-2.dubbo利用zookeeper实现负载均衡
-3.master选举(kafka、hadoop/hbase)
-4.命名服务
-5.分布式锁
-6.分布式队列
-7.id生成器
+1. 数据的发布和订阅(配置中心)
+    
+2. dubbo利用zookeeper实现负载均衡
+3. master选举(kafka、hadoop/hbase)
+4. 命名服务
+5. 分布式锁
+6. 分布式队列
+7. id生成器
